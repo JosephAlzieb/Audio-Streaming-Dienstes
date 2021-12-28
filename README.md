@@ -22,4 +22,7 @@ Titels haben Speicherorte, und können zu einem Genre gehören.
 
 Nutzer können Titles kommentieren, und Playlist bewerten ,..
 
-![foxdemo](https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1/blob/master/er_Joseph_Alzieb.pdf)
+
+## Hier könnte man sich das Graph des System anschauen.
+
+https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1/blob/master/er_Joseph_Alzieb.pdf
