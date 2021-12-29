@@ -7,7 +7,7 @@
 #### 3- Implementierung der Datenbank in SQLite.
 #### 4- Umsetzung des dazugehörigen RESTful Web Services.
 
-## In dieser Repo werde ich mit dem ersten Teil beginnen. 
+## In dieser Repo werde ich  den ersten Schritt und den zweiten zusammen machen . 
 #### So ich werde das ER-Model mit Hilfe yEd Fraph Editor erstellen.
 
 ## was ich in diesem Schritt gmecht habe ist folgendes ..
@@ -26,3 +26,10 @@ Nutzer können Titles kommentieren, und Playlist bewerten ,..
 ## Hier könnte man sich das Graph des System anschauen.
 
 https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1/blob/master/er_Joseph_Alzieb.pdf
+
+## der Zweite Schritt bestehr daran, das ER-model in erin Relation-model zu überführen. 
+##### in diesem Schritt habe ich ein paar Sachen korrigiert, und zwar ich habe "Email" statt "Nutzername" bei "Nutzer" als primary-key gesetzt.
+
+## Hier könnte man sich die Überführung in die Relation-model anschauen.
+
+https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1-2/blob/master/Phase2/relation-model.pdf
