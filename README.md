@@ -25,11 +25,11 @@ Nutzer können Titles kommentieren, und Playlist bewerten ,..
 
 ## Hier könnte man sich das Graph des System anschauen.
 
-https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1/blob/master/er_Joseph_Alzieb.pdf
+https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1-and-2/blob/master/er_Joseph_Alzieb.pdf
 
 ## der Zweite Schritt bestehr daran, das ER-model in erin Relation-model zu überführen. 
 ##### in diesem Schritt habe ich ein paar Sachen korrigiert, und zwar ich habe "Email" statt "Nutzername" bei "Nutzer" als primary-key gesetzt.
 
 ## Hier könnte man sich die Überführung in die Relation-model anschauen.
 
-https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1-2/blob/master/Phase2/relation-model.pdf
+https://github.com/JosephAlzieb/Audio-Streaming-Dienstes-1-and-2/blob/master/Phase2/relation-model.pdf
